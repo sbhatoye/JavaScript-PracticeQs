@@ -1,0 +1,2 @@
+Qs2. Write a JS program to find the sum of digits in a number.
+Example: if number= 287152, sum = 25
